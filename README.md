@@ -5,7 +5,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
-* [ToDo](#todo)
+* [ToDo](#to-do)
 
 ## General info
 This is the final project of [Alchemy University's Ethereum Developer Bootcamp](https://university.alchemy.com/ethereum).
@@ -43,7 +43,7 @@ GOERLI_URL=<<alchemy_test_url>>
 #### Run tests
 To test the contracts to be executed:
 ```
-$ npx hardhat deploy
+$ npx hardhat test
 ```
 
 #### Deploy contract
